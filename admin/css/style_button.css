@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.box button{
+  background:#CCC;
+  border:0;
+  color:#fff;
+  padding:10px;
+  font-size:15px;
+  width:220px;
+  margin:5px;
+  display:block;
+}
+.box button:active{
+  background:#27ae60;
+}

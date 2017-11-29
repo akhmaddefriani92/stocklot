@@ -1,0 +1,95 @@
+1 - Bali
+2 - Bangka Belitung
+3 - Banten
+4 - Bengkulu
+5 - DI Yogyakarta
+6 - DKI Jakarta
+7 - Gorontalo
+8 - Jambi
+9 - Jawa Barat
+10 - Jawa Tengah
+11 - Jawa Timur
+12 - Kalimantan Barat
+13 - Kalimantan Selatan
+14 - Kalimantan Tengah
+15 - Kalimantan Timur
+16 - Kalimantan Utara
+17 - Kepulauan Riau
+18 - Lampung
+19 - Maluku
+20 - Maluku Utara
+21 - Nanggroe Aceh Darussalam (NAD)
+22 - Nusa Tenggara Barat (NTB)
+23 - Nusa Tenggara Timur (NTT)
+24 - Papua
+25 - Papua Barat
+26 - Riau
+27 - Sulawesi Barat
+28 - Sulawesi Selatan
+29 - Sulawesi Tengah
+30 - Sulawesi Tenggara
+31 - Sulawesi Utara
+32 - Sumatera Barat
+33 - Sumatera Selatan
+34 - Sumatera Utara
+
+
+
+
+
+151 - Jakarta Barat - 11220
+152 - Jakarta Pusat - 10540
+153 - Jakarta Selatan - 12230
+154 - Jakarta Timur - 13330
+155 - Jakarta Utara - 14140
+189 - Kepulauan Seribu - 14550
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<select name="prov" onchange="pilih_kota('dom_kota',this.value);">
+					<option value="#">Provinsi</option>
+					<option value="1">Bali</option>
+					<option value="2">Bangka Belitung</option>
+					<option value="3">Banten</option>
+					<option value="4">Bengkulu</option>
+					<option value="5">DI Yogyakarta</option>
+					<option value="6">DKI Jakarta</option>
+					<option value="7">Gorontalo</option>
+					<option value="8">Jambi</option>
+					<option value="9">Jawa Barat</option>
+					<option value="10">Jawa Tengah</option>
+					<option value="11">Jawa Timur</option>
+					<option value="12">Kalimantan Barat</option>
+					<option value="13">Kalimantan Selatan</option>
+					<option value="14">Kalimantan Tengah</option>
+					<option value="15">Kalimantan Timur</option>
+					<option value="16">Kalimantan Utara</option>
+					<option value="17">Kepulauan Riau</option>
+					<option value="18">Lampung</option>
+					<option value="19">Maluku</option>
+					<option value="20">Maluku Utara</option>
+					<option value="21">Nanggroe Aceh Darussalam (NAD)</option>
+					<option value="22">Nusa Tenggara Barat (NTB)</option>
+					<option value="23">Nusa Tenggara Timur (NTT)</option>
+					<option value="24">Papua</option>
+					<option value="25">Papua Barat</option>
+					<option value="26">Riau</option>
+					<option value="27">Sulawesi Barat</option>
+					<option value="28">Sulawesi Selatan</option>
+					<option value="29">Sulawesi Tengah</option>
+					<option value="30">Sulawesi Tenggara</option>
+					<option value="31">Sulawesi Utara</option>
+					<option value="32">Sumatera Barat</option>
+					<option value="33">Sumatera Selatan</option>
+					<option value="34">Sumatera Utara</option>
+  				</select>
